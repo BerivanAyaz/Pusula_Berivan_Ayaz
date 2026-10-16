@@ -45,6 +45,7 @@ The primary goal of this case study is **not to build a predictive model**, but 
 ├── Pusula_Case_Study.ipynb         # Main Jupyter Notebook containing full EDA & Preprocessing
 ├── requirements.txt                # Required Python packages
 └── README.md                       # Project documentation
+```
 
 ---
 
